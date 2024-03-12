@@ -1,0 +1,27 @@
+{
+  "name": "ge-totalstack",
+  "version": "1.0.0",
+  "description": "TotalStack stacks sums effortlessly. With its seamless integration, it provides efficient solutions for stacking sums, ensuring accuracy and reliability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ge-totalstack": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GebiriEugen105/ge-totalstack.git"
+  },
+  "homepage": "https://github.com/GebiriEugen105/ge-totalstack/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "GebiriEugen105",
+  "license": "MIT"
+}
